@@ -1,0 +1,8 @@
+{
+  "package": "org.modmaker.datapack_filter_fix.mixins",
+  "mixins": [
+    "MultiPackResourceManagerMixin"
+  ],
+  "refmap": "mixins.datapack_filter_fix.refmap.json",
+  "required": true
+}

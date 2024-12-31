@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": {
+      "text": "Test pack to reproduce filter error"
+    },
+    "pack_format": 15
+  },
+  "filter": {
+    "block": [
+      {"namespace": "minecraft", "path": "non_existant"},
+      {"namespace": "other_mod", "path": "recipes"}
+    ]
+  }
+}
